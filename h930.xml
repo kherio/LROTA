@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Official>
+        <h930>
+            <Filename>10.0.7-20190414-UNOFFICIAL-h930.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="LiquidRemix"
+                description="Download latest build for h930">https://androidfilehost.com/liquid_remix-10.0.7-20190414-OFFICIAL-enchilada.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Click here to view latest changes">https://del.dog/sakodulohe.coffeescript</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="OpenGApps"
+            	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
+        </h930>
+    </Official>
+</SlimOTA>
