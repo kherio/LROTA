@@ -35,5 +35,5 @@ device_name=ro.liquid.device
 
 version_source=ro.liquid.version
 version_delimiter=-
-version_position=1
+version_position=2
 version_format=yyyyMMdd
