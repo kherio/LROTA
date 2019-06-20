@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <h930>
-            <Filename>10.0.10-20190625-OFFICIAL-h930.zip</Filename>
+            <Filename>10.0.9-20190620-OFFICIAL-h930.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for h930">https://sourceforge.net/projects/liquid-remix/files/H930/liquid_remix-10.0.10-20190625-OFFICIAL-h930.zip/download</RomUrl>
+                description="Download latest build for h930">https://sourceforge.net/projects/liquid-remix/files/H930/liquid_remix-10.0.9-20190620-OFFICIAL-h930.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
