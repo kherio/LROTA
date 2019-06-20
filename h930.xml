@@ -15,10 +15,6 @@
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
-            <XDAThread
-                id="xda"
-                title="Liquid XDA Thread"
-                description="Review and LG V30 Liquid Remix Froum on XDA">https://forum.xda-developers.com/lg-v30/development/rom-liquid-remix-10-0-0-t3886842</XDAThread>
         </h930>
     </Official>
 </SlimOTA>
