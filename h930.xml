@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for h930">https://sourceforge.net/projects/liquid-remix/files/H930/liquid_remix-10.0.9-20190702-OFFICIAL-h930.zip/download</RomUrl>
+                description="Download latest build for h930">https://sourceforge.net/projects/liquid-remix/files/H930/liquid_remix-10.0.9-20190702-OFFICIAL-h930.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
