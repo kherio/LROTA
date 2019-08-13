@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <h930>
+            <Filename>RR-P-v7.0.2-20190812-h930-Unofficial.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=6006931924117935850</RomUrl>
+           <Rom2Url
+                id="rom2"
+                title="Alternate Link"
+                description="Alternate link to download builds">https://www.jvrsanjose.tk/files/ROM/RR/RR-P-v7.0.2-20190812-h930-Unofficial.zip</Rom2Url>
+            <KernelUrl
+                id="kernel"
+                title="Kernel"
+                description="Download latest CeresII 1.4 kernel">https://www.androidfilehost.com/?fid=6006931924117935865</KernelUrl>
+              <Firmware1Url
+                id="firmware1"
+                title="Recommended Firmware"
+                description="Download V30 firmware MODIFIED_TWRP-JOAN_H930_OPEN_EU-21w.zip">https://www.androidfilehost.com/?fid=6006931924117907458</Firmware1Url>
+              <Firmware2Url
+                id="firmware2"
+                title="Newer Firmware"
+                description="Download FOR-AOSP_TWRP-H93022j_00_OPEN_EU_OP_0403.zip">https://www.androidfilehost.com/?fid=6006931924117935868</Firmware2Url>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <SlimGappsUrl
+                id="slim_gapps"
+                title="Slim GApps"
+                description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
+           <OpenGappsUrl
+                id="open_gapps"
+                title="Open Gapps"
+                description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+        </h930>
+    </Stable>
+</SlimOTA>
