@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Liquid Remix"
-                description="Download latest build for our loved h930">https://sourceforge.net/projects/liquid-rom/files/H930/liquid_remix-10.0.11-20190819-OFFICIAL-h930.zip/download</RomUrl>
+                description="Download latest build for our loved h930">https://downloads.sourceforge.net/project/liquid-remix/H930/liquid_remix-10.0.11-20190819-OFFICIAL-h930.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fliquid-remix%2Ffiles%2FH930%2Fliquid_remix-10.0.11-20190819-OFFICIAL-h930.zip%2Fdownload&ts=1566216096</RomUrl>
             <KernelUrl
             	id="KernelUrl"
             	title="Kernel"
