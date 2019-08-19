@@ -9,7 +9,7 @@
                 description="Download latest build for enchilada">https://sourceforge.net/projects/liquid-rom/files/H930/liquid_remix-10.0.11-20190818-OFFICIAL-h930.zip/download</RomUrl>
             <KernelUrl
             	id="KernelUrl"
-            	title="Kernal"
+            	title="Kernel"
             	description="Download latest kernel for Android Pie">https://sourceforge.net/projects/liquid-rom/files/Kernel/AnyKernel3_ceres_II.base_1_4_2-gc6c21593_LGStock_AOSP_H930.zip/download</KernelUrl>
             <ChangelogUrl
                 id="changelog"
