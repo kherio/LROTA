@@ -11,11 +11,7 @@
             	id="KernelUrl"
             	title="Kernel"
             	description="Download latest kernel for Android Pie">https://sourceforge.net/projects/liquid-rom/files/Kernel/AnyKernel3_ceres_II.base_1_4_2-gc6c21593_LGStock_AOSP_H930.zip/download</KernelUrl>
-            <Converter
-            	id="930to932"
-            	title="H932 Converter"
-            	description="Download H930 to H932 converter">https://sourceforge.net/projects/liquid-rom/files/Utils/H930_to_H932_rom_firmware.zip/download</Converter>
-            <ChangelogUrl
+             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="Click here to view latest changes">https://del.dog/zumenoxifo.cs</ChangelogUrl>
