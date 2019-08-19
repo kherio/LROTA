@@ -3,25 +3,18 @@
     <Official>
         <h930>
             <Filename>liquid_remix-10.0.11-20190818-OFFICIAL-h930.zip</Filename>
-            <ROM>
+            <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for h930">https://sourceforge.net/projects/liquid-rom/files/H930/liquid_remix-10.0.11-20190818-OFFICIAL-h930.zip/download</RomUrl>
-            <Changelog>
+                description="Download latest build for enchilada">https://sourceforge.net/projects/liquid-rom/files/H930/liquid_remix-10.0.11-20190818-OFFICIAL-h930.zip/download</RomUrl>
+            <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://del.dog/ponuqeroji.css</ChangelogUrl>
-                <!--
-                    Older Changelogs:
-                -->
-            <OpenGapps>
+                description="Click here to view latest changes">https://del.dog/zumenoxifo.cs</ChangelogUrl>
+            <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Pie">https://opengapps.org</OpenGappsUrl>
-            <Latest_kernel>
-            	id="Latest_kernel"
-            	title="Anykernel3 Ceres II 1.4.2"
-            	description="Anykernel3 Ceres II 1.4.2">https://www.androidfilehost.com/?fid=6006931924117939061</Latest_kernel>
         </h930>
     </Official>
 </SlimOTA>
