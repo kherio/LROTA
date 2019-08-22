@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <h930>
-            <Filename>10.0.11-20190821-OFFICIAL-h930.zip</Filename>
+            <Filename>20190821-OFFICIAL-h930.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Liquid Remix"
