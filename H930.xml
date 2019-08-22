@@ -13,7 +13,7 @@
             	description="Download latest kernel for Android Pie">https://sourceforge.net/projects/liquid-rom/files/Kernel/AnyKernel3_ceres_II.base_1_4_2-gc6c21593_LGStock_AOSP_H930.zip/download</KernelUrl>
             <Converter
             	id="Converter"
-            	title="H930 to H932 Converter"
+            	title="Converter"
             	description="Download H932 converter">https://sourceforge.net/projects/liquid-rom/files/Utils/H930_to_H932_rom_firmware.zip/download</Converter>
             <ChangelogUrl
                 id="changelog"
