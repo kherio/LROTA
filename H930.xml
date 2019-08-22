@@ -10,7 +10,7 @@
             <Server
                 id="Server"
                 title="Liquid Server"
-                description="Personal Liquid Server for h930"></RomUrl>
+                description="Personal Liquid Server for h930"></Server>
             <KernelUrl
             	id="KernelUrl"
             	title="Kernel"
