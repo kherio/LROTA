@@ -7,6 +7,10 @@
                 id="rom"
                 title="Liquid Remix"
                 description="Download latest build for our loved h930">https://sourceforge.net/projects/liquid-remix/files/H930/liquid_remix-10.0.11-20190821-OFFICIAL-h930.zip/download</RomUrl>
+            <Server
+                id="Server"
+                title="Liquid Server"
+                description="Personal Liquid Server for h930"></RomUrl>
             <KernelUrl
             	id="KernelUrl"
             	title="Kernel"
